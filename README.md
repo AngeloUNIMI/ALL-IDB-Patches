@@ -1,4 +1,4 @@
-# ALLNet
+# ALL-IDB Patches
 
 Matlab source code for the paper:
 
