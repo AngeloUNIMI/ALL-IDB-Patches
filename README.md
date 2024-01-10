@@ -4,8 +4,9 @@ Matlab source code for the paper:
 
 	A. Genovese, V. Piuri, and F. Scotti, 
     "ALL-IDB Patches: Whole slide imaging for Acute Lymphoblastic Leukemia detection using Deep Learning", 
-    Proc. of the IEEE Int. Conf. on Acoustics Speech and Signal Processing (ICASSP 2023), 
-    Rhodes Island, Greece, June 4-10, 2023, pp. 1-5.
+    in Proc. of the IEEE Int. Conf. on Acoustics Speech and Signal Processing Workshops (ICASSPW 2023), 
+    Rhodes Island, Greece, June 4-10, 2023, pp. 1-5. 
+    ISBN: 979-8-3503-0261-5. [DOI: 10.1109/ICASSPW59220.2023.10193429]
 	
 Project page:
 
@@ -18,14 +19,14 @@ Citation:
 
 	@InProceedings {aimia23,
     author = {A. Genovese and V. Piuri and F. Scotti},
-    booktitle = {Proc. of the IEEE Int. Conf. on Acoustics Speech and Signal Processing (ICASSP 2023)},
+    booktitle = {Proc. of the IEEE Int. Conf. on Acoustics Speech and Signal Processing Workshops (ICASSPW 2023)},
     title = {ALL-IDB Patches: Whole slide imaging for Acute Lymphoblastic Leukemia detection using Deep Learning},
     address = {Rhodes Island, Greece},
     pages = {1-5},
     month = {June},
     day = {4-10},
     year = {2023},
-    note = {Accepted},}
+    note = {979-8-3503-0261-5},}
 
 Main files:
 
