@@ -8,8 +8,10 @@ Matlab source code for the paper:
     Rhodes Island, Greece, June 4-10, 2023, pp. 1-5. 
     ISBN: 979-8-3503-0261-5. [DOI: 10.1109/ICASSPW59220.2023.10193429]
 	
+Paper:
+[https://ieeexplore.ieee.org/document/10193429](https://ieeexplore.ieee.org/document/10193429)
+	
 Project page:
-
 [https://iebil.di.unimi.it/cnnALL/index.htm](https://iebil.di.unimi.it/cnnALL/index.htm)
     
 Outline:
