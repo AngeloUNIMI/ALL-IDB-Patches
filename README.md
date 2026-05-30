@@ -5,6 +5,8 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/AngeloUNIMI/ALL-IDB-Patches"><img alt="GitHub repository" src="https://img.shields.io/badge/GitHub-Code%20Repository-181717?logo=github"></a>
+  <a href="https://huggingface.co/datasets/AngeloUNIMI/ALL-IDB-Patches"><img alt="Hugging Face dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow"></a>
   <a href="https://ieeexplore.ieee.org/document/10193429"><img alt="Paper" src="https://img.shields.io/badge/Paper-IEEE%20Xplore-00629B"></a>
   <a href="https://iebil.di.unimi.it/cnnALL/index.htm"><img alt="Project page" src="https://img.shields.io/badge/Project%20page-ALL--IDB%20Patches-blue"></a>
   <img alt="Language" src="https://img.shields.io/badge/MATLAB-100%25-orange">
